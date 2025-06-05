@@ -1,0 +1,8 @@
+{
+  "short_name": "Animated Cards",
+  "name": "React Animated Cards",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
